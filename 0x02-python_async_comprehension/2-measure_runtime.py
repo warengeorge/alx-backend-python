@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" a coroutine that will execute async_comprehension four times in 
+""" a coroutine that will execute async_comprehension four times in
     parallel using asyncio.gather """
 import asyncio
 import time
